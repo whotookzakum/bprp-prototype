@@ -93,7 +93,7 @@
     <div class="leading-relaxed text-sm">
         <ul
             id="chatContainer"
-            class="px-2 py-1 max-h-[144px] overflow-y-auto"
+            class="px-2 py-1 max-h-[145px] overflow-y-auto"
             bind:this={chatScrollArea}
         >
             {#each chatMessages as { to, sender, msg }}

@@ -271,7 +271,7 @@
 
 <Draggable>
     <div
-    class="w-[650px] rounded-md absolute m-8 shadow-sm shadow-zinc-900 overflow-clip backdrop-blur-sm scale-90"
+    class="w-[650px] rounded-md absolute m-8 shadow-sm shadow-zinc-900 overflow-clip backdrop-blur-sm"
 >
     {@render menubar()}
     {@render header()}
