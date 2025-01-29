@@ -1,0 +1,1 @@
+export const assetUrl = "https://raw.githubusercontent.com/whotookzakum/bpassets/webp";
